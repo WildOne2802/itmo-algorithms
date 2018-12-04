@@ -1,4 +1,5 @@
 import java.io.*;
+
 public class t2 {
 
     public  static class mapStruct{

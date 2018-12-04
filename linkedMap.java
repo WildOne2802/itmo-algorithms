@@ -1,6 +1,7 @@
 import java.io.*;
 
 public class t3 {
+	
     public static class linkedMapNode {
         public linkedMapNode insertedPrev, insertedNext;
         public linkedMapNode prev, next;

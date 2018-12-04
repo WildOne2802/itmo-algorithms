@@ -14,6 +14,7 @@ public class t4 {
                 bucket = bucket.next;
             }
         }
+		
         out.println();
     }
 
