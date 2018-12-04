@@ -26,6 +26,9 @@ public class t1 {
         out.close();
         reader.close();
     }
+	
+	
+	
     public static class linkedSetNode {
  
         public linkedSetNode prev, next;
