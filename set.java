@@ -26,9 +26,7 @@ public class t1 {
         out.close();
         reader.close();
     }
-	
-	
-	
+
     public static class linkedSetNode {
  
         public linkedSetNode prev, next;
@@ -38,6 +36,7 @@ public class t1 {
             this.value = value;
         }
     }
+
     public static class setStruct {
         public linkedSetNode[] buckets;
         public int size = 0;
